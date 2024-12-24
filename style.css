@@ -5,6 +5,13 @@ body {
     padding: 20px;
 }
 
+.add-note{
+    background-color: black;
+    cursor: pointer;
+    color: white;
+    border-radius: 5px;
+}
+
 .container {
     max-width: 600px;
     margin: auto;
@@ -35,7 +42,7 @@ body {
 }
 
 .delete-note {
-    background: red;
+    background: black;
     color: white;
     border: none;
     padding: 5px 10px;
